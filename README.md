@@ -6,6 +6,13 @@
 $ npm install ionic-pagseguro --save
 ```
 
+## Dependências
+```bash
+$ npm install --save mydatepicker
+$ npm install --save moment
+$ npm install --save @angular-http
+```
+
 ## Consumindo a biblioteca
 
 No seu `AppModule`:
