@@ -17,7 +17,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Adicione o PagSeguroModule.forRoot() no seu app.module
-import { PagSeguroComponent } from 'ionic-pagseguro';
+import { PagSeguroModule } from 'ionic-pagseguro';
 
 @NgModule({
   declarations: [
